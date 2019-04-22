@@ -1,0 +1,2 @@
+# pythonsmtp
+Basic Python SMTP 
