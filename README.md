@@ -1,2 +1,2 @@
 # pythonsmtp
-Basic Python SMTP 
+Basic Python SMTP protocol CLI mail sender code
